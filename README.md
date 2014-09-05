@@ -1,0 +1,1 @@
+this is an empty git repo
